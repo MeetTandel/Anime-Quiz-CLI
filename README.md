@@ -2,7 +2,7 @@
 
 A CLI based interactive quiz game completely build using NodeJs , which checks how well do you know Anime.
 
-#### Live Project [https://replit.com/@shivtandel47/mark1-About-Me#index.js](https://replit.com/@shivtandel47/mark1-About-Me#index.js)
+#### Live Project [https://replit.com/@shivtandel47/mark2-Quiz-App#index.js](https://replit.com/@shivtandel47/mark2-Quiz-App#index.js)
 
 ## How to Use
 
